@@ -21,7 +21,7 @@ Use the following endpoint to create an admin manually:
 }
 
 
----
+
 
 #### ✅ 2. **Clarify Role-Based Access Rules**
 Add under your feature list or in a new section:
